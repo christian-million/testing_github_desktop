@@ -1,2 +1,7 @@
 # testing_github_desktop
- I've never used the desktop application :
+
+Here is a change to my readme file
+
+- [ ] Checkboxes are cool
+
+- [X] Create checkboxes
