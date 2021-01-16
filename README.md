@@ -6,4 +6,4 @@ Here is a change to my readme file
 
 - [X] MERGE CONFLICT ATTEMPT
 
-- [ ] This commit is from a second machine
+- [X] This is from a second machine
